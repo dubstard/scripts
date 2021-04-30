@@ -1,2 +1,2 @@
 # scripts
-ransom scripts
+random scripts
